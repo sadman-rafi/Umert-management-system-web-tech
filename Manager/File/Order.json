@@ -1,0 +1,26 @@
+[
+    {
+        "proname": "Frock",
+        "quan": "32",
+        "price": "67896",
+        "supname": "Promit",
+        "proid": "35684",
+        "supid": "32123"
+    },
+    {
+        "proname": "Hilsha",
+        "quan": "32",
+        "price": "2345",
+        "supname": "Akash",
+        "proid": "23456",
+        "supid": "23421"
+    },
+    {
+        "proname": "Hilsha",
+        "quan": "34",
+        "price": "4500",
+        "supname": "Akash",
+        "proid": "22222",
+        "supid": "33333"
+    }
+]

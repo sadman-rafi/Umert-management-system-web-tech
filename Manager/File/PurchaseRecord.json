@@ -1,0 +1,34 @@
+[
+    {
+        "proname": "Milk",
+        "quan": "5",
+        "price": "400",
+        "catagory": "Grocery",
+        "proid": "12345",
+        "supid": "12345"
+    },
+    {
+        "proname": "Flower",
+        "quan": "10",
+        "price": "600",
+        "catagory": "Grocery",
+        "proid": "12346",
+        "supid": "12317"
+    },
+    {
+        "proname": "Hilsha",
+        "quan": "34",
+        "price": "2345",
+        "catagory": "Fishes",
+        "proid": "23456",
+        "supid": "34567"
+    },
+    {
+        "proname": "Milk",
+        "quan": "31",
+        "price": "250",
+        "catagory": "Grocery",
+        "proid": "12345",
+        "supid": "23456"
+    }
+]

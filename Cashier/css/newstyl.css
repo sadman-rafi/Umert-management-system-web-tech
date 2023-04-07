@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+  background: yellow;
+}
+
+input[type=text] ,input[type=submit] {
+  width: 50%;
+  padding: 10px;
+  margin: 5px 0 18px 0;
+  display: inline-block;
+  border: green;
+  background:  rgba(0, 128, 0, 0.3);
+}
+button{
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  opacity: 0.9;
+  }
+  button:hover{
+    opacity: 1;
+    background: red;
+    animation: 2 sec;
+    border: green;
+
+  }

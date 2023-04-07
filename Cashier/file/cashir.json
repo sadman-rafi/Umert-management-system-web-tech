@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Touhid uzz jaman",
+        "email": "admin@gmail.com",
+        "age": "123",
+        "cid": "12345",
+        "password": "123",
+        "phoneNumber": "123",
+        "gender": "male",
+        "language": "English",
+        "position": "ADMIN",
+        "about": "jkljkljkl"
+    },
+    {
+        "name": "Touhid uzz jaman",
+        "email": "admin@gmail.com",
+        "age": "12",
+        "cid": "12345",
+        "password": "123",
+        "phoneNumber": "12345",
+        "gender": "male",
+        "language": "English",
+        "position": "ADMIN",
+        "about": "21134jhghj"
+    },
+    {
+        "name": "bevan",
+        "email": "bevansaha05022002@gmail.com",
+        "age": "12",
+        "cid": "12347",
+        "password": "12345",
+        "phoneNumber": "017334",
+        "gender": "male",
+        "language": "English",
+        "position": "Cashier",
+        "about": "123213"
+    }
+]

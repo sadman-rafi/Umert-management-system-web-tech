@@ -1,0 +1,32 @@
+h3{
+	background-color: red;
+	color: white;
+
+}
+.btn
+{
+	 font: bold 11px Arial;
+  text-decoration: none;
+  background-color: yellow;
+  color: #333333;
+  padding: 4px 6px 4px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+.btn:hover{
+	opacity: 1;
+    background: greenyellow;
+    animation: 2 sec;
+    border: green;
+
+}
+div{
+    padding-top: 80px;
+    height: 200px;
+    width: 250px;
+
+
+
+}

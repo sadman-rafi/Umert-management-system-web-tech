@@ -1,0 +1,25 @@
+#table2 {
+    height: 300px;
+    width: 400px;
+    background-color: #40e0cd;
+    margin-top: 200px;
+  }
+
+.button {
+    background-color: #cb4154; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+  .button:hover {
+    background-color: #1d447b; /* Green */
+    color: white;
+  }
+  
+  
+  

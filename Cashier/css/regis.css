@@ -1,0 +1,91 @@
+*{
+  box-sizing: border-box;
+  
+}
+input[type=text], input[type=password], input [type="number"] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 18px 0;
+  display: inline-block;
+  border: green;
+  background:  rgba(0, 128, 0, 0.3);
+  }
+  
+
+  .form{
+  width: 350px;
+  height: 450px;
+  background-color: rgba(41, 39, 39, 0.3);
+  box-shadow: 0 5px 30px black;
+}
+body {
+  background:skyblue ;
+
+  color: blue;
+}
+
+h3 {
+  background-color: red;
+  color: white;
+}
+p{
+  font-size: 18;
+  font-family: fantasy;
+  font-style: oblique;
+  }
+  button{
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  }
+  button:hover{
+    opacity: 1;
+    background: red;
+    animation: 2 sec;
+    border: green;
+
+  }
+  link{
+    color: red;
+    text-shadow: red;
+  }
+#reset : hover
+{
+ opacity: 1;
+    background: darkblue;
+    animation: 2 sec;
+    border: green;
+
+}
+  /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
+
+.regim{
+     border: 5px outset red;
+  background-color: red;
+  
+}
+form{
+  background-color: rgba(rgb(255,255,0,0.3));
+}
+img
+{
+  position: sticky;
+}
